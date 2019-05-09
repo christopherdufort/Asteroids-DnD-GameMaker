@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "110f0d73-6876-4b41-88c0-e05336df6cd8",
+            "Value": {
+                "id": "d1dc66c6-a220-4b97-afe3-f659f9700df1",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16cea3bf-b0c2-4ad2-8860-7dd3aa5e8f04",
             "Value": {
                 "id": "a484e47c-6f24-41cc-a235-3586715ab85c",
@@ -76,6 +84,14 @@
                 "id": "0991d78e-04b9-4d7e-b22c-77bc0e1b2530",
                 "resourcePath": "views\\23fad673-6785-4a9f-ae3a-9ee8038d30bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24e6afc4-b854-4851-a501-6dae2209f484",
+            "Value": {
+                "id": "b9380379-90e7-4c1b-b71f-fb9f6128f819",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,11 +119,27 @@
             }
         },
         {
+            "Key": "4d1a2d3d-c795-4d9e-949f-54bf97a9ce91",
+            "Value": {
+                "id": "005036eb-eed5-4c56-ac48-f27f9fa3bca2",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "575a34ae-1cff-40e9-9fff-6011dd838e79",
             "Value": {
                 "id": "51418d75-b4f0-4575-afc6-a1f670217516",
                 "resourcePath": "views\\575a34ae-1cff-40e9-9fff-6011dd838e79.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5dc98a1d-5c01-4f13-94d4-a6174ed02fc3",
+            "Value": {
+                "id": "e61a28a1-71b1-4bee-a04f-487fe954821b",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
