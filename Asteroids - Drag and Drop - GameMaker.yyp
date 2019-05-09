@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "36f40f0c-4565-4fff-bf09-bc9f1c6c06e1",
+            "Value": {
+                "id": "a20789f2-320f-4bee-8543-902f2be13818",
+                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "40478668-2811-4c47-ab99-9cac5bd61214",
             "Value": {
                 "id": "370c5401-e3b9-4099-abe1-862318d20ab2",
@@ -116,6 +124,14 @@
                 "id": "43c1a5f7-37ab-45bc-a592-2e6726edb722",
                 "resourcePath": "views\\438ee8ce-e2c4-4d9b-bbad-3ba31601f674.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4acad9f7-9b09-464b-9e71-a5e5d0435047",
+            "Value": {
+                "id": "24b91814-26b1-42d8-9c4c-c5049adefa2f",
+                "resourcePath": "rooms\\rm_game_win\\rm_game_win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "73325d7c-5761-43e9-8726-041edf098197",
+            "Value": {
+                "id": "ce92d35f-f8f8-43fe-b1d0-083ff49fb613",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "76a61382-ec76-4414-a3b9-2f7252c9dd8f",
             "Value": {
                 "id": "82e48fb8-cfa5-492d-987f-e005cb58ce21",
@@ -188,6 +212,14 @@
                 "id": "dee75f64-da54-4d38-a43a-e4534835b7f1",
                 "resourcePath": "sprites\\spr_asteroid_large\\spr_asteroid_large.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8aa80156-c7c7-4a28-9040-8411d893f3ce",
+            "Value": {
+                "id": "c3543fca-2cf7-4434-8270-7d7543dccc17",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -223,10 +255,26 @@
             }
         },
         {
+            "Key": "aae2bf37-80a4-48fc-9c81-4425705dfc15",
+            "Value": {
+                "id": "bec59f5b-c94c-4c1c-a83f-b943a85f1422",
+                "resourcePath": "rooms\\rm_game_over\\rm_game_over.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b5a0ae48-12ad-4674-a25a-ebdf6ea8e848",
             "Value": {
                 "id": "d629d666-05b6-4f0f-95a6-2bdedc7a9d97",
                 "resourcePath": "sprites\\spr_asteroid_medium\\spr_asteroid_medium.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c569c8b8-9edf-4046-8361-76107e84d76c",
+            "Value": {
+                "id": "709322e4-8713-4c6d-bc7e-292deb9b5b7f",
+                "resourcePath": "sprites\\spr_lives\\spr_lives.yy",
                 "resourceType": "GMSprite"
             }
         },
